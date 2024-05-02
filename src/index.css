@@ -2,6 +2,7 @@
 
 body {
   font: 30px 'Arial', sans-serif, monospace;
+  margin: 20px;
   background-color: #ffffff;
   display: flex;
   flex-direction: column;
@@ -73,7 +74,7 @@ ul {
 }
 
 .game-info{
-  padding-bottom:10%;
+  padding-bottom:20%;
 }
 
 .game-button {

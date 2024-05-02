@@ -17,7 +17,7 @@ async function ApiResponse (line) {
     }
 
     return resul;
-};
+}
 
 
 export default ApiResponse;
